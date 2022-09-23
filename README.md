@@ -1,5 +1,5 @@
 # FizzBuzz
-A simple program which plays FizzBuzz up to a number of your choice.
+A simple program which plays FizzBuzz (in Java) up to a number of your choice.
 
 For those who don't know how FizzBuzz works, you count up from 1, but:
  - Every time a number is a multiple of 3, you say "Fizz" 
